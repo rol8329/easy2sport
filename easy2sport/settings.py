@@ -26,8 +26,9 @@ SECRET_KEY = 'gl=%-@+u6^pc19ka6jtmibw@#k0h1w9+r*k%jcpg#cr1!gwqk6'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1',
-                 '.easy2sport.com',
+ALLOWED_HOSTS = [   '127.0.0.1',
+                    '.easy2sport.com',
+                    'rolandlegoff8329.pythonanywhere.com',
                  ]
 
 
